@@ -1,0 +1,2124 @@
+TiLifeTracker
+v7
+r1
+cCheck dependencies
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/Default-568h@2x.png
+c00000000522F6B6A00000000000048A2
+t1378839402
+s18594
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/Default.png
+c00000000522F6B6A000000000002C12D
+t1378839402
+s180525
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Info.plist
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/+.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/+@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/3rd.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/3rd@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/AddTrackerViewController.nib
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/CreateAccountViewController.nib
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/Default-568h@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/ForgetPwdViewController.nib
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/GraphViewController.nib
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/LoginViewController.nib
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/Login_title.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/Login_title@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/MyLifeCustomCell.nib
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/MyLifeViewController.nib
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/PopupViewController.nib
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/RewardViewController.nib
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/RwdCustomCell.nib
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/SelectCategoryViewController.nib
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/SettingViewController.nib
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/Tap_bar_button.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/Tap_bar_button@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/Tap_bar_selected_button.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/Tap_bar_selected_button@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/TrackViewController.nib
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/TrackerCustomCell.nib
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/TrackerDetailCustomCell.nib
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/TrackerDetailViewController.nib
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/TrackerRootViewController.nib
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/alarm_option.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/alarm_option@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/arrow.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/arrow@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/arrowblk.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/arrowblk@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/auto_stop.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/auto_stop_@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/bar.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/bar@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/bg.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/bg@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/black_bg.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/black_bg@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/black_center_gradient_button.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/black_center_gradient_button@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/black_left_rounded_button.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/black_left_rounded_button@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/black_right_rounded_button.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/black_right_rounded_button@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/blanks_icon.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/blanks_icon@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/briefcase_icon.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/briefcase_icon@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/bus_icon.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/bus_icon@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/buttons.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/buttons@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/buttons_dotted.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/buttons_dotted_@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/cat.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/category.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/category@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/category_red.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/category_red@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/clock_icon.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/clock_icon@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/close.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/close@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/cpu_icon.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/cpu_icon@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/detail_button.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/detail_button@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/done.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/done@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/fb.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/fb@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/fb_Sel.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/fb_Sel@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/football_icon.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/football_icon@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/goal.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/goal@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/golden_star.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/golden_star@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/graph.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/graph@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/green.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/green@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/home.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/home@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/iLifeTracker.sqlite
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/iLifeTracker_Splash_Screen_V2.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/icon-01.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/icon@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/line.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/line@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/list_bg.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/list_bg1.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/list_bg1@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/list_bg@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/login@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/login_fb.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/login_fb@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/movie_reel_Icon.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/movie_reel_Icon@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/my life.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/my life@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/name.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/name@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/name_box.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/name_box@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/name_red.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/name_red@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/nav_bar.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/nav_bar@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/non_selected.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/non_selected@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/pause.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/pause@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/play.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/play@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/pls_enter.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/pls_enter@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/pop_up_white_star.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/pop_up_white_star@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/pop_up_white_star_ipad.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/pop_up_white_star_ipad@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/readinf-boy_icon.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/readinf-boy_icon@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/red.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/red@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/register.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/register_nw.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/register_nw@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/rewards.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/rewards@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/settings.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/settings@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/share_bg.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/share_bg@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/share_button.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/share_button@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/share_to.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/share_to@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/sport.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/sport@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/sports-bg.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/sports-bg@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/stop.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/stop@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/templete_strip.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/templete_strip@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/track.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/track@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/troly_icon.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/troly_icon@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/trophy_icon.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/trophy_icon@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/twitter.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/twitter@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/twitter_sel.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/twitter_sel@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/upper_bg.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/upper_bg@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/username.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/username@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/white_center_gradient_button.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/white_center_gradient_button@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/white_left_rounded_button.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/white_left_rounded_button@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/white_right_rounded_button.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/white_right_rounded_button@2x.png
+t2
+s0
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/CreateAccountViewController/CreateAccountViewController.xib
+c00000000522F6B6A0000000000005D13
+t1378839402
+s23827
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/ForgetPasswordViewController/ForgetPwdViewController.xib
+c00000000522F6B6A0000000000003653
+t1378839402
+s13907
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/GraphViewController/GraphViewController.xib
+c00000000522FADDD00000000000094C4
+t1378856413
+s38084
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/LoginViewController/LoginViewController.xib
+c00000000522F6B6A00000000000059A9
+t1378839402
+s22953
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/MyLifeViewController/MyLifeCustomCell.xib
+c00000000522F6B6A0000000000004723
+t1378839402
+s18211
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/MyLifeViewController/MyLifeViewController.xib
+c00000000522F6B6A000000000000E6BE
+t1378839402
+s59070
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/RewardViewController/RewardViewController.xib
+c00000000522F6B6A00000000000045C8
+t1378839402
+s17864
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/RewardViewController/RwdCustomCell.xib
+c00000000522F6B6A00000000000047A5
+t1378839402
+s18341
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/SettingViewController/SettingViewController.xib
+c000000005235ECA100000000000035C8
+t1379265697
+s13768
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/TrackViewController/AddTrackerViewController/AddTrackerViewController.xib
+c00000000522F6B6A0000000000009BE5
+t1378839402
+s39909
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/TrackViewController/AddTrackerViewController/SelectCategoryViewController/SelectCategoryViewController.xib
+c00000000522F6B6A00000000000026B6
+t1378839402
+s9910
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/TrackViewController/PopupViewController.xib
+c00000000522F6B6A0000000000001CE8
+t1378839402
+s7400
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/TrackViewController/TrackViewController.xib
+c00000000522F6B6A0000000000002219
+t1378839402
+s8729
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/TrackViewController/TrackerCustomCell.xib
+c00000000522F6B6A00000000000046AD
+t1378839402
+s18093
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/TrackViewController/TrackerDetailViewController/TrackerDetailCustomCell.xib
+c00000000522F6B6A0000000000004295
+t1378839402
+s17045
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/TrackViewController/TrackerDetailViewController/TrackerDetailViewController.xib
+c00000000522F6B6A0000000000008BE5
+t1378839402
+s35813
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/TrackerRootViewController/TrackerRootViewController.xib
+c00000000522F6B6A0000000000001D70
+t1378839402
+s7536
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/+.png
+c00000000522F6B6A00000000000003F1
+t1378839402
+s1009
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/+@2x.png
+c00000000522F6B6A0000000000000469
+t1378839402
+s1129
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/arrowblk.png
+c00000000522F6B6A0000000000000400
+t1378839402
+s1024
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/arrowblk@2x.png
+c00000000522F6B6A0000000000000922
+t1378839402
+s2338
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/bg.png
+c00000000522F6B6A0000000000000E59
+t1378839402
+s3673
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/bg@2x.png
+c00000000522F6B6A0000000000002EA8
+t1378839402
+s11944
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/black_bg.png
+c00000000522F6B6A000000000000054C
+t1378839402
+s1356
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/black_bg@2x.png
+c00000000522F6B6A0000000000000BEA
+t1378839402
+s3050
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/graph.png
+c00000000522F6B6A0000000000000715
+t1378839402
+s1813
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/graph@2x.png
+c00000000522F6B6A0000000000000DA4
+t1378839402
+s3492
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/green.png
+c00000000522F6B6A0000000000000321
+t1378839402
+s801
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/green@2x.png
+c00000000522F6B6A000000000000052B
+t1378839402
+s1323
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/home.png
+c00000000522F6B6A00000000000006E0
+t1378839402
+s1760
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/home@2x.png
+c00000000522F6B6A0000000000000C06
+t1378839402
+s3078
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/login@2x.png
+c00000000522F6B6A0000000000000CE0
+t1378839402
+s3296
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/login_fb.png
+c00000000522F6B6A0000000000001C35
+t1378839402
+s7221
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/login_fb@2x.png
+c00000000522F6B6A0000000000001FDF
+t1378839402
+s8159
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/my life.png
+c00000000522F6B6A0000000000000847
+t1378839402
+s2119
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/my life@2x.png
+c00000000522F6B6A00000000000012CD
+t1378839402
+s4813
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/nav_bar.png
+c00000000522F6B6A0000000000000245
+t1378839402
+s581
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/nav_bar@2x.png
+c00000000522F6B6A00000000000002CB
+t1378839402
+s715
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/red.png
+c00000000522F6B6A0000000000000308
+t1378839402
+s776
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/red@2x.png
+c00000000522F6B6A00000000000004D6
+t1378839402
+s1238
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/register.png
+c00000000522F6B6A00000000000008F0
+t1378839402
+s2288
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/rewards.png
+c00000000522F6B6A00000000000008D2
+t1378839402
+s2258
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/rewards@2x.png
+c00000000522F6B6A0000000000001516
+t1378839402
+s5398
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/settings.png
+c00000000522F6B6A00000000000006FF
+t1378839402
+s1791
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/settings@2x.png
+c00000000522F6B6A0000000000000E88
+t1378839402
+s3720
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/track.png
+c00000000522F6B6A00000000000009A9
+t1378839402
+s2473
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/track@2x.png
+c00000000522F6B6A0000000000001737
+t1378839402
+s5943
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/upper_bg.png
+c00000000522F6B6A0000000000000473
+t1378839402
+s1139
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/upper_bg@2x.png
+c00000000522F6B6A0000000000000B80
+t1378839402
+s2944
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/username.png
+c00000000522F6B6A0000000000000402
+t1378839402
+s1026
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/Images/username@2x.png
+c00000000522F6B6A00000000000008FE
+t1378839402
+s2302
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/arrow.png
+c00000000522F6B6C00000000000005B0
+t1378839404
+s1456
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/arrow@2x.png
+c00000000522F6B6C0000000000000DA1
+t1378839404
+s3489
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/bar.png
+c00000000522F6B6C0000000000000F96
+t1378839404
+s3990
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/bar@2x.png
+c00000000522F6B6C0000000000001AC0
+t1378839404
+s6848
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/cat.png
+c00000000522F6B6C00000000000004CD
+t1378839404
+s1229
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/category_red.png
+c00000000522F6B6C00000000000010B5
+t1378839404
+s4277
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/category_red@2x.png
+c00000000522F6B6C0000000000002C15
+t1378839404
+s11285
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/name_red.png
+c00000000522F6B6C0000000000000480
+t1378839404
+s1152
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/name_red@2x.png
+c00000000522F6B6C0000000000000AB4
+t1378839404
+s2740
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/pause.png
+c00000000522F6B6C00000000000002C8
+t1378839404
+s712
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/pause@2x.png
+c00000000522F6B6C000000000000030C
+t1378839404
+s780
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/play.png
+c00000000522F6B6C0000000000000554
+t1378839404
+s1364
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/play@2x.png
+c00000000522F6B6C00000000000009B6
+t1378839404
+s2486
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/sport.png
+c00000000522F6B6C0000000000000523
+t1378839404
+s1315
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/sport@2x.png
+c00000000522F6B6C000000000000089A
+t1378839404
+s2202
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/sports-bg.png
+c00000000522F6B6C0000000000000191
+t1378839404
+s401
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/sports-bg@2x.png
+c00000000522F6B6C00000000000002F5
+t1378839404
+s757
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/stop.png
+c00000000522F6B6C000000000000029C
+t1378839404
+s668
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/stop@2x.png
+c00000000522F6B6C00000000000003DF
+t1378839404
+s991
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/templete_strip.png
+c00000000522F6B6C0000000000000280
+t1378839404
+s640
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/TrackSessionImg/templete_strip@2x.png
+c00000000522F6B6C0000000000000574
+t1378839404
+s1396
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/black_center_gradient_button.png
+c00000000522F6B6C000000000000018D
+t1378839404
+s397
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/black_center_gradient_button@2x.png
+c00000000522F6B6C00000000000002AC
+t1378839404
+s684
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/black_left_rounded_button.png
+c00000000522F6B6C00000000000001EB
+t1378839404
+s491
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/black_left_rounded_button@2x.png
+c00000000522F6B6C0000000000000421
+t1378839404
+s1057
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/black_right_rounded_button.png
+c00000000522F6B6C00000000000001EF
+t1378839404
+s495
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/black_right_rounded_button@2x.png
+c00000000522F6B6C000000000000044A
+t1378839404
+s1098
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/blanks_icon.png
+c00000000522F6B6C0000000000000304
+t1378839404
+s772
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/blanks_icon@2x.png
+c00000000522F6B6C000000000000058F
+t1378839404
+s1423
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/briefcase_icon.png
+c00000000522F6B6C00000000000013E3
+t1378839404
+s5091
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/briefcase_icon@2x.png
+c00000000522F6B6C0000000000002A7F
+t1378839404
+s10879
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/bus_icon.png
+c00000000522F6B6C00000000000024C6
+t1378839404
+s9414
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/bus_icon@2x.png
+c00000000522F6B6C0000000000005BF7
+t1378839404
+s23543
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/clock_icon.png
+c00000000522F6B6C0000000000002020
+t1378839404
+s8224
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/clock_icon@2x.png
+c00000000522F6B6C0000000000004CBB
+t1378839404
+s19643
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/close.png
+c00000000522F6B6C0000000000000700
+t1378839404
+s1792
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/close@2x.png
+c00000000522F6B6C0000000000000A67
+t1378839404
+s2663
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/cpu_icon.png
+c00000000522F6B6C0000000000002641
+t1378839404
+s9793
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/cpu_icon@2x.png
+c00000000522F6B6C00000000000066A5
+t1378839404
+s26277
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/detail_button.png
+c00000000522F6B6C0000000000000225
+t1378839404
+s549
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/detail_button@2x.png
+c00000000522F6B6C00000000000003BC
+t1378839404
+s956
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/fb.png
+c00000000522F6B6C0000000000000574
+t1378839404
+s1396
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/fb@2x.png
+c00000000522F6B6C000000000000096B
+t1378839404
+s2411
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/fb_Sel.png
+c00000000522F6B6C000000000000061E
+t1378839404
+s1566
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/fb_Sel@2x.png
+c00000000522F6B6C0000000000000A87
+t1378839404
+s2695
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/football_icon.png
+c00000000522F6B6C00000000000022E9
+t1378839404
+s8937
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/football_icon@2x.png
+c00000000522F6B6C000000000000530C
+t1378839404
+s21260
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/golden_star.png
+c00000000522F6B6C0000000000000562
+t1378839404
+s1378
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/golden_star@2x.png
+c00000000522F6B6C00000000000009CD
+t1378839404
+s2509
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/iLifeTracker.sqlite
+c00000000522F6B6C0000000000028000
+t1378839404
+s163840
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/iLifeTracker_Splash_Screen_V2.png
+c00000000522F6B6C000000000002C12D
+t1378839404
+s180525
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/line.png
+c00000000522F6B6C00000000000000BB
+t1378839404
+s187
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/line@2x.png
+c00000000522F6B6C0000000000000110
+t1378839404
+s272
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/list_bg.png
+c00000000522F6B6C0000000000000226
+t1378839404
+s550
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/list_bg@2x.png
+c00000000522F6B6C0000000000000417
+t1378839404
+s1047
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/movie_reel_Icon.png
+c00000000522F6B6C0000000000001D6B
+t1378839404
+s7531
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/movie_reel_Icon@2x.png
+c00000000522F6B6C0000000000004A24
+t1378839404
+s18980
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/name_box.png
+c00000000522F6B6C0000000000003E60
+t1378839404
+s15968
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/name_box@2x.png
+c00000000522F6B6C00000000000055BB
+t1378839404
+s21947
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/non_selected.png
+c00000000522F6B6C00000000000003B4
+t1378839404
+s948
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/non_selected@2x.png
+c00000000522F6B6C00000000000005CC
+t1378839404
+s1484
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/pop_up_white_star.png
+c00000000522F6B6C00000000000004D1
+t1378839404
+s1233
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/pop_up_white_star@2x.png
+c00000000522F6B6C0000000000000721
+t1378839404
+s1825
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/pop_up_white_star_ipad.png
+c00000000522F6B6C00000000000004D4
+t1378839404
+s1236
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/pop_up_white_star_ipad@2x.png
+c00000000522F6B6C00000000000007B5
+t1378839404
+s1973
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/readinf-boy_icon.png
+c00000000522F6B6C0000000000001A20
+t1378839404
+s6688
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/readinf-boy_icon@2x.png
+c00000000522F6B6C0000000000003FD7
+t1378839404
+s16343
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/share_bg.png
+c00000000522F6B6C0000000000000160
+t1378839404
+s352
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/share_bg@2x.png
+c00000000522F6B6C00000000000002A8
+t1378839404
+s680
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/share_button.png
+c00000000522F6B6C0000000000000476
+t1378839404
+s1142
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/share_button@2x.png
+c00000000522F6B6C00000000000006A9
+t1378839404
+s1705
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/share_to.png
+c00000000522F6B6C0000000000000C73
+t1378839404
+s3187
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/share_to@2x.png
+c00000000522F6B6C0000000000001051
+t1378839404
+s4177
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/../done.png
+c00000000522F6B6C000000000000027A
+t1378839404
+s634
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/../done@2x.png
+c00000000522F6B6C00000000000003F4
+t1378839404
+s1012
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/3rd.png
+c00000000522F6B6C0000000000003685
+t1378839404
+s13957
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/3rd@2x.png
+c00000000522F6B6C0000000000007EF8
+t1378839404
+s32504
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/Login_title.png
+c00000000522F6B6C0000000000000923
+t1378839404
+s2339
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/Login_title@2x.png
+c00000000522F6B6C00000000000007FA
+t1378839404
+s2042
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/Tap_bar_button.png
+c00000000522F6B6C0000000000000139
+t1378839404
+s313
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/Tap_bar_button@2x.png
+c00000000522F6B6C0000000000000195
+t1378839404
+s405
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/Tap_bar_selected_button.png
+c00000000522F6B6C0000000000000143
+t1378839404
+s323
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/Tap_bar_selected_button@2x.png
+c00000000522F6B6C0000000000000197
+t1378839404
+s407
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/alarm_option.png
+c00000000522F6B6C0000000000001FFC
+t1378839404
+s8188
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/alarm_option@2x.png
+c00000000522F6B6C000000000000303C
+t1378839404
+s12348
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/auto_stop.png
+c00000000522F6B6C0000000000002C21
+t1378839404
+s11297
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/auto_stop_@2x.png
+c00000000522F6B6C0000000000004458
+t1378839404
+s17496
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/buttons.png
+c00000000522F6B6C00000000000002B1
+t1378839404
+s689
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/buttons@2x.png
+c00000000522F6B6C000000000000053C
+t1378839404
+s1340
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/buttons_dotted.png
+c00000000522F6B6C00000000000010EF
+t1378839404
+s4335
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/buttons_dotted_@2x.png
+c00000000522F6B6C0000000000001C56
+t1378839404
+s7254
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/category.png
+c00000000522F6B6C0000000000000FAF
+t1378839404
+s4015
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/category@2x.png
+c00000000522F6B6C0000000000002196
+t1378839404
+s8598
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/goal.png
+c00000000522F6B6C00000000000029AD
+t1378839404
+s10669
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/goal@2x.png
+c00000000522F6B6C0000000000003DAD
+t1378839404
+s15789
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/list_bg.png
+c00000000522F6B6C0000000000000280
+t1378839404
+s640
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/list_bg1.png
+c00000000522F6B6C00000000000001CF
+t1378839404
+s463
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/list_bg1@2x.png
+c00000000522F6B6C000000000000032E
+t1378839404
+s814
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/list_bg@2x.png
+c00000000522F6B6C0000000000000574
+t1378839404
+s1396
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/name.png
+c00000000522F6B6C0000000000000437
+t1378839404
+s1079
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/name@2x.png
+c00000000522F6B6C00000000000009D3
+t1378839404
+s2515
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/pls_enter.png
+c00000000522F6B6C0000000000002CE5
+t1378839404
+s11493
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/pls_enter@2x.png
+c00000000522F6B6C0000000000002B3B
+t1378839404
+s11067
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/register_nw.png
+c00000000522F6B6C0000000000001F6D
+t1378839404
+s8045
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/register_nw@2x.png
+c00000000522F6B6C0000000000001968
+t1378839404
+s6504
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/troly_icon.png
+c00000000522F6B6C0000000000002198
+t1378839404
+s8600
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/troly_icon@2x.png
+c00000000522F6B6C0000000000005CF2
+t1378839404
+s23794
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/trophy_icon.png
+c00000000522F6B6C0000000000001AB3
+t1378839404
+s6835
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/trophy_icon@2x.png
+c00000000522F6B6C0000000000003F55
+t1378839404
+s16213
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/twitter.png
+c00000000522F6B6C0000000000000651
+t1378839404
+s1617
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/twitter@2x.png
+c00000000522F6B6C0000000000000BD6
+t1378839404
+s3030
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/twitter_sel.png
+c00000000522F6B6C000000000000072F
+t1378839404
+s1839
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/twitter_sel@2x.png
+c00000000522F6B6C0000000000000E37
+t1378839404
+s3639
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/white_center_gradient_button.png
+c00000000522F6B6C00000000000001FE
+t1378839404
+s510
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/white_center_gradient_button@2x.png
+c00000000522F6B6C0000000000000391
+t1378839404
+s913
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/white_left_rounded_button.png
+c00000000522F6B6C000000000000027B
+t1378839404
+s635
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/white_left_rounded_button@2x.png
+c00000000522F6B6C000000000000057C
+t1378839404
+s1404
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/white_right_rounded_button.png
+c00000000522F6B6C0000000000000274
+t1378839404
+s628
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/white_right_rounded_button@2x.png
+c00000000522F6B6C0000000000000572
+t1378839404
+s1394
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/en.lproj/InfoPlist.strings
+c00000000522F6B6C000000000000002F
+t1378839404
+s47
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/icon-01.png
+c00000000522F6B6C0000000000001799
+t1378839404
+s6041
+
+N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/icon@2x.png
+c00000000522F6B6C000000000000452D
+t1378839404
+s17709
+
+NiLifeTracker/iLifeTracker-Info.plist
+c00000000522F6B6C0000000000000657
+t1378839404
+s1623
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies401165723#401165723#0(581"[BEROR]No architectures to compile for (ARCHS=i386, VALID_ARCHS=armv7 ).[WARN]Warning: Multiple build commands for output file /Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/list_bg.png[WARN]Warning: Multiple build commands for output file /Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/list_bg@2x.png[BEROR]Code Signing Identity 'iPhone Distribution: 3rd Floor Software Solutions Inc. (DA9WNH7ABR)' does not match any valid, non-expired, code-signing certificate in your keychain.4(4@65"No architectures to compile for (ARCHS=i386, VALID_ARCHS=armv7 ).401165723#18446744073709551615#0#0(1@0"0(22@155"Warning: Multiple build commands for output file /Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/list_bg.png401165723#18446744073709551615#0#0(1@0"0(22@158"Warning: Multiple build commands for output file /Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/list_bg@2x.png401165723#18446744073709551615#0#0(1@0"0(4@173"Code Signing Identity 'iPhone Distribution: 3rd Floor Software Solutions Inc. (DA9WNH7ABR)' does not match any valid, non-expired, code-signing certificate in your keychain.401165723#18446744073709551615#0#0(1@0"0(0#1#0"4317978624#0"0#
+
+CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/CreateAccountViewController/CreateAccountViewController.xib"
+r0
+
+CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/ForgetPasswordViewController/ForgetPwdViewController.xib"
+r0
+
+CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/GraphViewController/GraphViewController.xib"
+r0
+
+CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/LoginViewController/LoginViewController.xib"
+r0
+
+CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/MyLifeViewController/MyLifeCustomCell.xib"
+r0
+
+CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/MyLifeViewController/MyLifeViewController.xib"
+r0
+
+CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/RewardViewController/RewardViewController.xib"
+r0
+
+CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/RewardViewController/RwdCustomCell.xib"
+r0
+
+CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/SettingViewController/SettingViewController.xib"
+r0
+
+CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/TrackViewController/AddTrackerViewController/AddTrackerViewController.xib"
+r0
+
+CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/TrackViewController/AddTrackerViewController/SelectCategoryViewController/SelectCategoryViewController.xib"
+r0
+
+CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/TrackViewController/PopupViewController.xib"
+r0
+
+CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/TrackViewController/TrackViewController.xib"
+r0
+
+CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/TrackViewController/TrackerCustomCell.xib"
+r0
+
+CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/TrackViewController/TrackerDetailViewController/TrackerDetailCustomCell.xib"
+r0
+
+CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/TrackViewController/TrackerDetailViewController/TrackerDetailViewController.xib"
+r0
+
+CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/TrackerRootViewController/TrackerRootViewController.xib"
+r0
+
+CCopyStringsFile "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/en.lproj/InfoPlist.strings" iLifeTracker/en.lproj/InfoPlist.strings
+r0
+
+CCpResource "build/Debug/iLifeTracker.app/Contents/Resources/my life.png" "iLifeTracker/Resources/Images/my life.png"
+r0
+
+CCpResource "build/Debug/iLifeTracker.app/Contents/Resources/my life@2x.png" "iLifeTracker/Resources/Images/my life@2x.png"
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/+.png iLifeTracker/Resources/Images/+.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/+@2x.png iLifeTracker/Resources/Images/+@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/3rd.png iLifeTracker/Resources/title/3rd.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/3rd@2x.png iLifeTracker/Resources/title/3rd@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/Default-568h@2x.png Default-568h@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/Login_title.png iLifeTracker/Resources/title/Login_title.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/Login_title@2x.png iLifeTracker/Resources/title/Login_title@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/Tap_bar_button.png iLifeTracker/Resources/title/Tap_bar_button.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/Tap_bar_button@2x.png iLifeTracker/Resources/title/Tap_bar_button@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/Tap_bar_selected_button.png iLifeTracker/Resources/title/Tap_bar_selected_button.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/Tap_bar_selected_button@2x.png iLifeTracker/Resources/title/Tap_bar_selected_button@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/alarm_option.png iLifeTracker/Resources/title/alarm_option.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/alarm_option@2x.png iLifeTracker/Resources/title/alarm_option@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/arrow.png iLifeTracker/Resources/TrackSessionImg/arrow.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/arrow@2x.png iLifeTracker/Resources/TrackSessionImg/arrow@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/arrowblk.png iLifeTracker/Resources/Images/arrowblk.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/arrowblk@2x.png iLifeTracker/Resources/Images/arrowblk@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/auto_stop.png iLifeTracker/Resources/title/auto_stop.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/auto_stop_@2x.png iLifeTracker/Resources/title/auto_stop_@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/bar.png iLifeTracker/Resources/TrackSessionImg/bar.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/bar@2x.png iLifeTracker/Resources/TrackSessionImg/bar@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/bg.png iLifeTracker/Resources/Images/bg.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/bg@2x.png iLifeTracker/Resources/Images/bg@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/black_bg.png iLifeTracker/Resources/Images/black_bg.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/black_bg@2x.png iLifeTracker/Resources/Images/black_bg@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/black_center_gradient_button.png iLifeTracker/Resources/black_center_gradient_button.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/black_center_gradient_button@2x.png iLifeTracker/Resources/black_center_gradient_button@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/black_left_rounded_button.png iLifeTracker/Resources/black_left_rounded_button.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/black_left_rounded_button@2x.png iLifeTracker/Resources/black_left_rounded_button@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/black_right_rounded_button.png iLifeTracker/Resources/black_right_rounded_button.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/black_right_rounded_button@2x.png iLifeTracker/Resources/black_right_rounded_button@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/blanks_icon.png iLifeTracker/Resources/blanks_icon.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/blanks_icon@2x.png iLifeTracker/Resources/blanks_icon@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/briefcase_icon.png iLifeTracker/Resources/briefcase_icon.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/briefcase_icon@2x.png iLifeTracker/Resources/briefcase_icon@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/bus_icon.png iLifeTracker/Resources/bus_icon.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/bus_icon@2x.png iLifeTracker/Resources/bus_icon@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/buttons.png iLifeTracker/Resources/title/buttons.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/buttons@2x.png iLifeTracker/Resources/title/buttons@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/buttons_dotted.png iLifeTracker/Resources/title/buttons_dotted.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/buttons_dotted_@2x.png iLifeTracker/Resources/title/buttons_dotted_@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/cat.png iLifeTracker/Resources/TrackSessionImg/cat.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/category.png iLifeTracker/Resources/title/category.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/category@2x.png iLifeTracker/Resources/title/category@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/category_red.png iLifeTracker/Resources/TrackSessionImg/category_red.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/category_red@2x.png iLifeTracker/Resources/TrackSessionImg/category_red@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/clock_icon.png iLifeTracker/Resources/clock_icon.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/clock_icon@2x.png iLifeTracker/Resources/clock_icon@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/close.png iLifeTracker/Resources/close.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/close@2x.png iLifeTracker/Resources/close@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/cpu_icon.png iLifeTracker/Resources/cpu_icon.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/cpu_icon@2x.png iLifeTracker/Resources/cpu_icon@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/detail_button.png iLifeTracker/Resources/detail_button.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/detail_button@2x.png iLifeTracker/Resources/detail_button@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/done.png iLifeTracker/Resources/title/../done.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/done@2x.png iLifeTracker/Resources/title/../done@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/fb.png iLifeTracker/Resources/fb.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/fb@2x.png iLifeTracker/Resources/fb@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/fb_Sel.png iLifeTracker/Resources/fb_Sel.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/fb_Sel@2x.png iLifeTracker/Resources/fb_Sel@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/football_icon.png iLifeTracker/Resources/football_icon.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/football_icon@2x.png iLifeTracker/Resources/football_icon@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/goal.png iLifeTracker/Resources/title/goal.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/goal@2x.png iLifeTracker/Resources/title/goal@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/golden_star.png iLifeTracker/Resources/golden_star.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/golden_star@2x.png iLifeTracker/Resources/golden_star@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/graph.png iLifeTracker/Resources/Images/graph.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/graph@2x.png iLifeTracker/Resources/Images/graph@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/green.png iLifeTracker/Resources/Images/green.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/green@2x.png iLifeTracker/Resources/Images/green@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/home.png iLifeTracker/Resources/Images/home.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/home@2x.png iLifeTracker/Resources/Images/home@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/iLifeTracker.sqlite iLifeTracker/Resources/iLifeTracker.sqlite
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/iLifeTracker_Splash_Screen_V2.png iLifeTracker/Resources/iLifeTracker_Splash_Screen_V2.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/icon-01.png icon-01.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/icon@2x.png icon@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/line.png iLifeTracker/Resources/line.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/line@2x.png iLifeTracker/Resources/line@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/list_bg.png iLifeTracker/Resources/list_bg.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/list_bg.png iLifeTracker/Resources/title/list_bg.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/list_bg1.png iLifeTracker/Resources/title/list_bg1.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/list_bg1@2x.png iLifeTracker/Resources/title/list_bg1@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/list_bg@2x.png iLifeTracker/Resources/list_bg@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/list_bg@2x.png iLifeTracker/Resources/title/list_bg@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/login@2x.png iLifeTracker/Resources/Images/login@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/login_fb.png iLifeTracker/Resources/Images/login_fb.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/login_fb@2x.png iLifeTracker/Resources/Images/login_fb@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/movie_reel_Icon.png iLifeTracker/Resources/movie_reel_Icon.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/movie_reel_Icon@2x.png iLifeTracker/Resources/movie_reel_Icon@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/name.png iLifeTracker/Resources/title/name.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/name@2x.png iLifeTracker/Resources/title/name@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/name_box.png iLifeTracker/Resources/name_box.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/name_box@2x.png iLifeTracker/Resources/name_box@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/name_red.png iLifeTracker/Resources/TrackSessionImg/name_red.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/name_red@2x.png iLifeTracker/Resources/TrackSessionImg/name_red@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/nav_bar.png iLifeTracker/Resources/Images/nav_bar.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/nav_bar@2x.png iLifeTracker/Resources/Images/nav_bar@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/non_selected.png iLifeTracker/Resources/non_selected.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/non_selected@2x.png iLifeTracker/Resources/non_selected@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/pause.png iLifeTracker/Resources/TrackSessionImg/pause.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/pause@2x.png iLifeTracker/Resources/TrackSessionImg/pause@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/play.png iLifeTracker/Resources/TrackSessionImg/play.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/play@2x.png iLifeTracker/Resources/TrackSessionImg/play@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/pls_enter.png iLifeTracker/Resources/title/pls_enter.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/pls_enter@2x.png iLifeTracker/Resources/title/pls_enter@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/pop_up_white_star.png iLifeTracker/Resources/pop_up_white_star.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/pop_up_white_star@2x.png iLifeTracker/Resources/pop_up_white_star@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/pop_up_white_star_ipad.png iLifeTracker/Resources/pop_up_white_star_ipad.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/pop_up_white_star_ipad@2x.png iLifeTracker/Resources/pop_up_white_star_ipad@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/readinf-boy_icon.png iLifeTracker/Resources/readinf-boy_icon.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/readinf-boy_icon@2x.png iLifeTracker/Resources/readinf-boy_icon@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/red.png iLifeTracker/Resources/Images/red.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/red@2x.png iLifeTracker/Resources/Images/red@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/register.png iLifeTracker/Resources/Images/register.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/register_nw.png iLifeTracker/Resources/title/register_nw.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/register_nw@2x.png iLifeTracker/Resources/title/register_nw@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/rewards.png iLifeTracker/Resources/Images/rewards.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/rewards@2x.png iLifeTracker/Resources/Images/rewards@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/settings.png iLifeTracker/Resources/Images/settings.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/settings@2x.png iLifeTracker/Resources/Images/settings@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/share_bg.png iLifeTracker/Resources/share_bg.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/share_bg@2x.png iLifeTracker/Resources/share_bg@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/share_button.png iLifeTracker/Resources/share_button.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/share_button@2x.png iLifeTracker/Resources/share_button@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/share_to.png iLifeTracker/Resources/share_to.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/share_to@2x.png iLifeTracker/Resources/share_to@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/sport.png iLifeTracker/Resources/TrackSessionImg/sport.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/sport@2x.png iLifeTracker/Resources/TrackSessionImg/sport@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/sports-bg.png iLifeTracker/Resources/TrackSessionImg/sports-bg.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/sports-bg@2x.png iLifeTracker/Resources/TrackSessionImg/sports-bg@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/stop.png iLifeTracker/Resources/TrackSessionImg/stop.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/stop@2x.png iLifeTracker/Resources/TrackSessionImg/stop@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/templete_strip.png iLifeTracker/Resources/TrackSessionImg/templete_strip.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/templete_strip@2x.png iLifeTracker/Resources/TrackSessionImg/templete_strip@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/track.png iLifeTracker/Resources/Images/track.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/track@2x.png iLifeTracker/Resources/Images/track@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/troly_icon.png iLifeTracker/Resources/troly_icon.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/troly_icon@2x.png iLifeTracker/Resources/troly_icon@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/trophy_icon.png iLifeTracker/Resources/trophy_icon.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/trophy_icon@2x.png iLifeTracker/Resources/trophy_icon@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/twitter.png iLifeTracker/Resources/twitter.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/twitter@2x.png iLifeTracker/Resources/twitter@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/twitter_sel.png iLifeTracker/Resources/twitter_sel.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/twitter_sel@2x.png iLifeTracker/Resources/twitter_sel@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/upper_bg.png iLifeTracker/Resources/Images/upper_bg.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/upper_bg@2x.png iLifeTracker/Resources/Images/upper_bg@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/username.png iLifeTracker/Resources/Images/username.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/username@2x.png iLifeTracker/Resources/Images/username@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/white_center_gradient_button.png iLifeTracker/Resources/white_center_gradient_button.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/white_center_gradient_button@2x.png iLifeTracker/Resources/white_center_gradient_button@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/white_left_rounded_button.png iLifeTracker/Resources/white_left_rounded_button.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/white_left_rounded_button@2x.png iLifeTracker/Resources/white_left_rounded_button@2x.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/white_right_rounded_button.png iLifeTracker/Resources/white_right_rounded_button.png
+r0
+
+CCpResource build/Debug/iLifeTracker.app/Contents/Resources/white_right_rounded_button@2x.png iLifeTracker/Resources/white_right_rounded_button@2x.png
+r0
+
+CProcessInfoPlistFile "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Info.plist" iLifeTracker/iLifeTracker-Info.plist
+r0
+
+CTouch "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app"
+r0
+

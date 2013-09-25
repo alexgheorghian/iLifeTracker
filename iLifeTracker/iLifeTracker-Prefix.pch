@@ -1,0 +1,43 @@
+//
+// Prefix header for all source files of the 'iLifeTracker' target in the 'iLifeTracker' project
+//
+
+#import <Availability.h>
+#import <iAd/iAd.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+
+#define LOGS_ON NO
+
+#define  MESSAGE_START        NSLog(@"%s ",__FUNCTION__);
+
+#define TABBARBUTTONIMGNAME         @"Tap_bar_button.png"
+#define TABBARBUTTONSELECTEDIMG     @"Tap_bar_selected_button.png"
+
+#define NAVIGATIONRIGHTBUTTON        @"left"
+#define NAVIGATIONLEFTBUTTON         @"right"
+#define NAVIGATIONPLUSTBUTTON        @"+"
+#define NAVIGATIONPLUSTBUTTONIMG     @"+.png"
+
+#define NAVIGATIONRIGHTBUTTONIMG     @"buttons.png"
+
+#define NAVIGATIONBARIMGNAME         @"nav_bar.png"
+
+#define FbClientID                    @"327123297346643" //umesh @"264699633664376" 
+
+
+#define FONTNAME                    @"Arial-BoldMT"
+
+#define NOTIFICATIONIDENTIFY        @"YES"
+
+#define TRACKCELLOBJARRAY                @"TrackCellObj"
+
+
