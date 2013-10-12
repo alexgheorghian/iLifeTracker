@@ -728,8 +728,8 @@ t1378839402
 s13907
 
 N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/GraphViewController/GraphViewController.xib
-c00000000522FADDD00000000000094C4
-t1378856413
+c000000005242592C00000000000094C4
+t1380079916
 s38084
 
 N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/LoginViewController/LoginViewController.xib
@@ -743,14 +743,14 @@ t1378839402
 s18211
 
 N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/MyLifeViewController/MyLifeViewController.xib
-c00000000522F6B6A000000000000E6BE
-t1378839402
-s59070
+c000000005242592C000000000000C622
+t1380079916
+s50722
 
 N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/RewardViewController/RewardViewController.xib
-c00000000522F6B6A00000000000045C8
-t1378839402
-s17864
+c000000005242592C000000000000446E
+t1380079916
+s17518
 
 N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/RewardViewController/RwdCustomCell.xib
 c00000000522F6B6A00000000000047A5
@@ -758,9 +758,9 @@ t1378839402
 s18341
 
 N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/SettingViewController/SettingViewController.xib
-c000000005235ECA100000000000035C8
-t1379265697
-s13768
+c000000005258BA5400000000000035D6
+t1381546580
+s13782
 
 N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/TrackViewController/AddTrackerViewController/AddTrackerViewController.xib
 c00000000522F6B6A0000000000009BE5
@@ -1223,9 +1223,9 @@ t1378839404
 s163840
 
 N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/iLifeTracker_Splash_Screen_V2.png
-c00000000522F6B6C000000000002C12D
-t1378839404
-s180525
+c000000005258A5C100000000000375EC
+t1381541313
+s226796
 
 N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/line.png
 c00000000522F6B6C00000000000000BB
@@ -1348,14 +1348,14 @@ t1378839404
 s1012
 
 N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/3rd.png
-c00000000522F6B6C0000000000003685
-t1378839404
-s13957
+c000000005258A3EB0000000000000995
+t1381540843
+s2453
 
 N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/3rd@2x.png
-c00000000522F6B6C0000000000007EF8
-t1378839404
-s32504
+c000000005258A3DF00000000000010E9
+t1381540831
+s4329
 
 N/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Resources/title/Login_title.png
 c00000000522F6B6C0000000000000923
@@ -1589,7 +1589,11 @@ s1623
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies401166418#401166418#0(581"[BEROR]No architectures to compile for (ARCHS=i386, VALID_ARCHS=armv7 ).[WARN]Warning: Multiple build commands for output file /Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/list_bg.png[WARN]Warning: Multiple build commands for output file /Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/list_bg@2x.png[BEROR]Code Signing Identity 'iPhone Distribution: 3rd Floor Software Solutions Inc. (DA9WNH7ABR)' does not match any valid, non-expired, code-signing certificate in your keychain.4(4@65"No architectures to compile for (ARCHS=i386, VALID_ARCHS=armv7 ).401166418#18446744073709551615#0#0(1@0"0(22@155"Warning: Multiple build commands for output file /Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/list_bg.png401166418#18446744073709551615#0#0(1@0"0(22@158"Warning: Multiple build commands for output file /Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/list_bg@2x.png401166418#18446744073709551615#0#0(1@0"0(4@173"Code Signing Identity 'iPhone Distribution: 3rd Floor Software Solutions Inc. (DA9WNH7ABR)' does not match any valid, non-expired, code-signing certificate in your keychain.401166418#18446744073709551615#0#0(1@0"0(0#1#0"17204444160#0"0#
+lSLF07#2@18"Check dependencies403246945#403246945#0(581"[BEROR]No architectures to compile for (ARCHS=i386, VALID_ARCHS=armv7 ).
+[WARN]Warning: Multiple build commands for output file /Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/list_bg.png
+[WARN]Warning: Multiple build commands for output file /Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/list_bg@2x.png
+[BEROR]Code Signing Identity 'iPhone Distribution: 3rd Floor Software Solutions Inc. (DA9WNH7ABR)' does not match any valid, non-expired, code-signing certificate in your keychain.
+4(4@65"No architectures to compile for (ARCHS=i386, VALID_ARCHS=armv7 ).403246945#18446744073709551615#0#0(1@0"0(22@155"Warning: Multiple build commands for output file /Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/list_bg.png403246945#18446744073709551615#0#0(1@0"0(22@158"Warning: Multiple build commands for output file /Users/alexgheorghian/Desktop/iLifeTracker 1.1/build/Debug/iLifeTracker.app/Contents/Resources/list_bg@2x.png403246945#18446744073709551615#0#0(1@0"0(4@173"Code Signing Identity 'iPhone Distribution: 3rd Floor Software Solutions Inc. (DA9WNH7ABR)' does not match any valid, non-expired, code-signing certificate in your keychain.403246945#18446744073709551615#0#0(1@0"0(0#1#0"17236050432#0"0#
 
 CCompileXIB "/Users/alexgheorghian/Desktop/iLifeTracker 1.1/iLifeTracker/Classes/View/CreateAccountViewController/CreateAccountViewController.xib"
 r0
