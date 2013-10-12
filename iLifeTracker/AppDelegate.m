@@ -1,7 +1,5 @@
 
-//  Created by Adrian
-//  Copyright (c) 2013 3rd Floor Software Solutions Inc. All rights reserved.
-//
+
 
 #import "AppDelegate.h"
 #import "SettingViewController.h"

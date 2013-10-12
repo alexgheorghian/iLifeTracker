@@ -1,8 +1,5 @@
 
-//
-//  Created by Adrian
-//  Copyright (c) 2013 3rd Floor Software Solutions Inc. All rights reserved.
-//
+
 
 #import <UIKit/UIKit.h>
 #import "CorePlot-CocoaTouch.h"
